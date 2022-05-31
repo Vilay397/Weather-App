@@ -4,7 +4,7 @@ A simple web application to display the current weather in various cities, built
 
 
 #### Example:   
-![Image description](https://github.com/Vilay397/Weather-app/blob/main/Intro.png)
+![Image description](https://github.com/Vilay397/Weather-app/blob/main/Intro.PNG)
 
 ## Installation and Setup Instructions
 
