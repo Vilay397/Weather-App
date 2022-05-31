@@ -10,7 +10,7 @@ A simple web application to display the current weather in various cities, built
 
 Clone this repository. You will need python, virtualenv, and virtualenvwrapper-win installed on your machine.
 
-#### Set up a virtual environment:
+### Set up a virtual environment:
 
 mkvirtualenv WeatherApp
 
@@ -27,7 +27,7 @@ mkvirtualenv WeatherApp
 `flask run`  
 ________________________________________________________________________________________________________________________________________
 
-#### Set up a Docker container:
+### Set up a Docker container:
 
 install Docker
 
