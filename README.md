@@ -25,3 +25,20 @@ mkvirtualenv WeatherApp
 #### To Start Server:
 
 `flask run`  
+________________________________________________________________________________________________________________________________________
+
+#### Set up a Docker container:
+
+install Docker
+
+#### Build container:
+
+`docker build -t weather-app:latest .`
+  
+#### Run container:
+
+`docker run --network host -d weather-app:latest`  
+
+#### Work URL:
+
+`http://127.0.0.1:5000`  
